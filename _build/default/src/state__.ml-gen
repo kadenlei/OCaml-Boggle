@@ -1,2 +1,0 @@
-(** @canonical State.Author *)
-module Author = State__Author
