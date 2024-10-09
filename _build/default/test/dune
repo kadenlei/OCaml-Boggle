@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries qcheck ounit2 Boggle))

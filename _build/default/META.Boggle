@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal graphics yojson"
+archive(byte) = "state.cma"
+archive(native) = "state.cmxa"
+plugin(byte) = "state.cma"
+plugin(native) = "state.cmxs"

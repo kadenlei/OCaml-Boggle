@@ -1,0 +1,120 @@
+2022-05-17T09:21:25+00:00 cs3110vm#01 I: Start test test suite for final project:0:update empty input_words field in easy_state.
+2022-05-17T09:21:25+00:00 cs3110vm#01 I: Test test suite for final project:0:update empty input_words field in easy_state is successful.
+2022-05-17T09:21:25+00:00 cs3110vm#01 I: End test test suite for final project:0:update empty input_words field in easy_state.
+2022-05-17T09:21:25+00:00 cs3110vm#01 I: Start test test suite for final project:3:empty string is not an inputtable word in easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:3:empty string is not an inputtable word in easy_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:3:empty string is not an inputtable word in easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:5:empty string is not an inputtable word in difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:5:empty string is not an inputtable word in difficult_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:5:empty string is not an inputtable word in difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:7:adding an invalid word in updated_easy_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:7:adding an invalid word in updated_easy_state yields the original list is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:7:adding an invalid word in updated_easy_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:8:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:8:update input_words field in updated_easy_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:8:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:10:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:10:update input_words field in updated_easy_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:10:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:12:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:12:update input_words field in updated_easy_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:12:update input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:16:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:16:update input_words field in updated_medium_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:16:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:18:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:18:update input_words field in updated_medium_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:18:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:20:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:20:update input_words field in updated_medium_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:20:update input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:22:adding an invalid word in updated_difficult_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:22:adding an invalid word in updated_difficult_state yields the original list is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:22:adding an invalid word in updated_difficult_state yields the original list.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:24:update input_words field in updated_difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:24:update input_words field in updated_difficult_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:24:update input_words field in updated_difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:26:update input_words field in updated_difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:26:update input_words field in updated_difficult_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:26:update input_words field in updated_difficult_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:33:easy init difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:33:easy init difficulty test is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:33:easy init difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:34:medium init difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:34:medium init difficulty test is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:34:medium init difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:36:easy difficulty  test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:36:easy difficulty  test is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:36:easy difficulty  test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:38:difficult difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:38:difficult difficulty test is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:38:difficult difficulty test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:40:easy difficulty  test update 2.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:40:easy difficulty  test update 2 is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:40:easy difficulty  test update 2.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:42:init test false.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:42:init test false is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:42:init test false.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:44: add true word old word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:44: add true word old word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:44: add true word old word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:46:add true word test false word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:46:add true word test false word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:46:add true word test false word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:48:add false word new word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:48:add false word new word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:48:add false word new word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:50:add multiple words false.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:50:add multiple words false is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:50:add multiple words false.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:52:medium empty init list score.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:52:medium empty init list score is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:52:medium empty init list score.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:54:easy init 1 word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:54:easy init 1 word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:54:easy init 1 word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:56:difficult init 1 word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:56:difficult init 1 word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:56:difficult init 1 word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:58:medium add 1 wrong word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:58:medium add 1 wrong word is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:58:medium add 1 wrong word.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:60:easy list score test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:60:easy list score test is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:60:easy list score test.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:62:easy list score test add 2.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:62:easy list score test add 2 is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:62:easy list score test add 2.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:64:easy list score test add duplicate.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Test test suite for final project:64:easy list score test add duplicate is successful.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: End test test suite for final project:64:easy list score test add duplicate.
+2022-05-17T09:21:26+00:00 cs3110vm#01 I: Start test test suite for final project:66:medium list score test.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:66:medium list score test is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:66:medium list score test.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Start test test suite for final project:68:medium list score test add 2.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:68:medium list score test add 2 is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:68:medium list score test add 2.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Start test test suite for final project:70:medium list score test add twice.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:70:medium list score test add twice is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:70:medium list score test add twice.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Start test test suite for final project:72:difficult list score test.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:72:difficult list score test is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:72:difficult list score test.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Start test test suite for final project:75:difficult list score test add invalid.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:75:difficult list score test add invalid is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:75:difficult list score test add invalid.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Start test test suite for final project:77:Random char generated by char_of_int(Random.int 25 + 65) is uppercase letter.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: 
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: law Random char generated by char_of_int(Random.int 25 + 65) is uppercase letter: 1000 relevant cases (1000 total)
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: 
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: Test test suite for final project:77:Random char generated by char_of_int(Random.int 25 + 65) is uppercase letter is successful.
+2022-05-17T09:21:27+00:00 cs3110vm#01 I: End test test suite for final project:77:Random char generated by char_of_int(Random.int 25 + 65) is uppercase letter.

@@ -1,0 +1,51 @@
+(lang dune 3.0)
+(name Boggle)
+(sections (lib .) (libexec .) (bin ../../bin))
+(files
+ (lib
+  (META
+   author.ml
+   author.mli
+   dune-package
+   opam
+   state.a
+   state.cma
+   state.cmi
+   state.cmt
+   state.cmti
+   state.cmx
+   state.cmxa
+   state.ml
+   state.mli
+   state__.cmi
+   state__.cmt
+   state__.cmx
+   state__.ml
+   state__Author.cmi
+   state__Author.cmt
+   state__Author.cmti
+   state__Author.cmx))
+ (libexec (state.cmxs))
+ (bin (Main)))
+(library
+ (name Boggle)
+ (kind normal)
+ (archives (byte state.cma) (native state.cmxa))
+ (plugins (byte state.cma) (native state.cmxs))
+ (native_archives state.a)
+ (requires ANSITerminal graphics yojson)
+ (main_module_name State)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name State)
+   (modules
+    ((name Author) (obj_name state__Author) (visibility public) (impl) (intf))
+    ((name State) (obj_name state) (visibility public) (impl) (intf)))
+   (alias_module
+    (name State__)
+    (obj_name state__)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

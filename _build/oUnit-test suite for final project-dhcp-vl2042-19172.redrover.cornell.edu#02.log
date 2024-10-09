@@ -1,0 +1,267 @@
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:1:update empty input_words field in medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:1:update empty input_words field in medium_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:1:update empty input_words field in medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:2:update empty input_words field in difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:2:update empty input_words field in difficult_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:2:update empty input_words field in difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:5:empty string is not an inputtable word in difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:5:empty string is not an inputtable word in difficult_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:5:empty string is not an inputtable word in difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:6:adding an invalid word in updated_easy_state yields the original list.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:6:adding an invalid word in updated_easy_state yields the original list is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:6:adding an invalid word in updated_easy_state yields the original list.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:9:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:9:update input_words field in updated_easy_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:9:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:10:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:10:update input_words field in updated_easy_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:10:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:12:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:12:update input_words field in updated_easy_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:12:update input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:14:adding an invalid word in updated_medium_state yields the original list.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:16:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:16:update input_words field in updated_medium_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:16:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:18:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:18:update input_words field in updated_medium_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:18:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:21:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:21:update input_words field in updated_medium_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:21:update input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:23:update input_words field in updated_difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:23:update input_words field in updated_difficult_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:23:update input_words field in updated_difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:24:update input_words field in updated_difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:24:update input_words field in updated_difficult_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:24:update input_words field in updated_difficult_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:27:Cannot append already-inputted word twice in input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:27:Cannot append already-inputted word twice in input_words field in updated_easy_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:27:Cannot append already-inputted word twice in input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:28:Cannot append already-inputted word twice in input_words field in updated_medium_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:30:Cannot append empty string to input_words field in updated_easy_state.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:33:easy init difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:33:easy init difficulty test is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:33:easy init difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:34:medium init difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:34:medium init difficulty test is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:34:medium init difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:36:easy difficulty  test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:36:easy difficulty  test is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:36:easy difficulty  test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:38:difficult difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:38:difficult difficulty test is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:38:difficult difficulty test.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:40:easy difficulty  test update 2.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:40:easy difficulty  test update 2 is successful.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:40:easy difficulty  test update 2.
+2022-05-18T03:26:02+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:42:init test false.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:42:init test false is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:42:init test false.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:44: add true word old word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:44: add true word old word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:44: add true word old word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:46:add true word test false word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:46:add true word test false word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:46:add true word test false word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:48:add false word new word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:48:add false word new word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:48:add false word new word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:50:add multiple words false.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:50:add multiple words false is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:50:add multiple words false.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:52:medium empty init list score.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:52:medium empty init list score is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:52:medium empty init list score.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:54:easy init 1 word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:54:easy init 1 word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:54:easy init 1 word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:56:difficult init 1 word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:56:difficult init 1 word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:56:difficult init 1 word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:58:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:58:medium add 1 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:58:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:60:easy list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:60:easy list score test is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:60:easy list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:62:easy list score test add 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:62:easy list score test add 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:62:easy list score test add 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:64:easy list score test add duplicate.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:64:easy list score test add duplicate is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:64:easy list score test add duplicate.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:66:medium list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:66:medium list score test is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:66:medium list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:68:medium list score test add 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:68:medium list score test add 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:68:medium list score test add 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:70:medium list score test add twice.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:70:medium list score test add twice is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:70:medium list score test add twice.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:72:difficult list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:72:difficult list score test is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:72:difficult list score test.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:74:difficult list score test add twice.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:74:difficult list score test add twice is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:74:difficult list score test add twice.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:76:difficult list score test add twice 4 invalids.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:76:difficult list score test add twice 4 invalids is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:76:difficult list score test add twice 4 invalids.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:78:difficult list score test add twice 4 invalids empty.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:78:difficult list score test add twice 4 invalids empty is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:78:difficult list score test add twice 4 invalids empty.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:80:difficult list score test add four and 2 invalids empty.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:80:difficult list score test add four and 2 invalids empty is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:80:difficult list score test add four and 2 invalids empty.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:83:difficult list score test add six with basketball.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:83:difficult list score test add six with basketball is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:83:difficult list score test add six with basketball.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:85:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:85:medium add 1 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:85:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:87:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:87:medium add 1 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:87:medium add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:89:medium add 4 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:89:medium add 4 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:89:medium add 4 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:91:easy add 2 repeat word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:91:easy add 2 repeat word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:91:easy add 2 repeat word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:93:easy add 3 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:93:easy add 3 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:93:easy add 3 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:95:hard add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:95:hard add 1 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:95:hard add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:97:hard add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:97:hard add 1 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:97:hard add 1 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:99:medium add 4 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:99:medium add 4 wrong word is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:99:medium add 4 wrong word.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:101:medium add 2 repeat word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:101:medium add 2 repeat word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:101:medium add 2 repeat word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:103:medium add 3 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:103:medium add 3 wrong word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:103:medium add 3 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:105:easy add 1 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:105:easy add 1 wrong word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:105:easy add 1 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:107:easy add 1 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:107:easy add 1 wrong word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:107:easy add 1 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:109:easy add 4 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:109:easy add 4 wrong word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:109:easy add 4 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:111:hard add 2 repeat word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:111:hard add 2 repeat word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:111:hard add 2 repeat word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:113:medium add 3 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:113:medium add 3 wrong word 2 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:113:medium add 3 wrong word 2.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:115:medium add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:115:medium add 1 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:115:medium add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:117:medium add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:117:medium add 1 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:117:medium add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:119:medium add 4 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:119:medium add 4 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:119:medium add 4 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:121:easy add 2 repeat word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:121:easy add 2 repeat word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:121:easy add 2 repeat word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:123:easy add 3 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:123:easy add 3 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:123:easy add 3 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:125:hard add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:125:hard add 1 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:125:hard add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:127:hard add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:127:hard add 1 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:127:hard add 1 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:129:medium add 4 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:129:medium add 4 wrong word 3 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:129:medium add 4 wrong word 3.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:131:medium add 2 repeat word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:131:medium add 2 repeat word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:131:medium add 2 repeat word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:133:medium add 3 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:133:medium add 3 wrong word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:133:medium add 3 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:135:easy add 1 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:135:easy add 1 wrong word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:135:easy add 1 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:137:easy add 1 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:137:easy add 1 wrong word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:137:easy add 1 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:139:easy add 4 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:139:easy add 4 wrong word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:139:easy add 4 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:141:hard add 2 repeat word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:141:hard add 2 repeat word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:141:hard add 2 repeat word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:143:medium add 3 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:143:medium add 3 wrong word 4 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:143:medium add 3 wrong word 4.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:145:medium add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:145:medium add 1 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:145:medium add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:147:medium add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:147:medium add 1 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:147:medium add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:149:medium add 4 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:149:medium add 4 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:149:medium add 4 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:151:easy add 2 repeat word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:151:easy add 2 repeat word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:151:easy add 2 repeat word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:153:easy add 3 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:153:easy add 3 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:153:easy add 3 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:155:hard add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:155:hard add 1 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:155:hard add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:157:hard add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:157:hard add 1 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:157:hard add 1 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:159:medium add 4 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:159:medium add 4 wrong word 5 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:159:medium add 4 wrong word 5.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:161:medium add 2 repeat word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:161:medium add 2 repeat word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:161:medium add 2 repeat word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:163:medium add 3 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:163:medium add 3 wrong word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:163:medium add 3 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:165:easy add 1 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:165:easy add 1 wrong word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:165:easy add 1 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:167:easy add 1 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:167:easy add 1 wrong word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:167:easy add 1 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:169:easy add 4 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:169:easy add 4 wrong word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:169:easy add 4 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:171:hard add 2 repeat word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:171:hard add 2 repeat word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:171:hard add 2 repeat word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:173:medium add 3 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:173:medium add 3 wrong word 6 is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:173:medium add 3 wrong word 6.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Start test test suite for final project:175:Random char generated by some_letter is uppercase letter.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: 
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: law Random char generated by some_letter is uppercase letter: 1000 relevant cases (1000 total)
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: 
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: Test test suite for final project:175:Random char generated by some_letter is uppercase letter is successful.
+2022-05-18T03:26:03+00:00 dhcp-vl2042-19172.redrover.cornell.edu#02 I: End test test suite for final project:175:Random char generated by some_letter is uppercase letter.

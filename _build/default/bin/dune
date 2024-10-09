@@ -1,0 +1,4 @@
+(executable
+ (public_name Main)
+ (name boggle)
+ (libraries Boggle ANSITerminal graphics))

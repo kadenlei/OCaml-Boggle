@@ -1,0 +1,4 @@
+(library
+ (public_name Boggle)
+ (name state)
+ (libraries ANSITerminal graphics yojson ))

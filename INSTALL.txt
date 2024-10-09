@@ -1,0 +1,14 @@
+Install XQuartz
+
+Should install opam and do the following if dune, ANSITERMINAL, yojson, and graphics are not already installed:
+
+opam install ANSITERMINAL
+opam install dune
+opam install graphics
+opam install yojson
+
+Run these commands:
+make build
+make play (to start game)
+
+

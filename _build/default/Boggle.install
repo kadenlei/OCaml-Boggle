@@ -1,0 +1,30 @@
+lib: [
+  "_build/install/default/lib/Boggle/META"
+  "_build/install/default/lib/Boggle/author.ml"
+  "_build/install/default/lib/Boggle/author.mli"
+  "_build/install/default/lib/Boggle/dune-package"
+  "_build/install/default/lib/Boggle/opam"
+  "_build/install/default/lib/Boggle/state.a"
+  "_build/install/default/lib/Boggle/state.cma"
+  "_build/install/default/lib/Boggle/state.cmi"
+  "_build/install/default/lib/Boggle/state.cmt"
+  "_build/install/default/lib/Boggle/state.cmti"
+  "_build/install/default/lib/Boggle/state.cmx"
+  "_build/install/default/lib/Boggle/state.cmxa"
+  "_build/install/default/lib/Boggle/state.ml"
+  "_build/install/default/lib/Boggle/state.mli"
+  "_build/install/default/lib/Boggle/state__.cmi"
+  "_build/install/default/lib/Boggle/state__.cmt"
+  "_build/install/default/lib/Boggle/state__.cmx"
+  "_build/install/default/lib/Boggle/state__.ml"
+  "_build/install/default/lib/Boggle/state__Author.cmi"
+  "_build/install/default/lib/Boggle/state__Author.cmt"
+  "_build/install/default/lib/Boggle/state__Author.cmti"
+  "_build/install/default/lib/Boggle/state__Author.cmx"
+]
+libexec: [
+  "_build/install/default/lib/Boggle/state.cmxs"
+]
+bin: [
+  "_build/install/default/bin/Main"
+]
